@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dianajoy-ux
-- 👀 I’m interested in front end
-- 🌱 I’m currently learning html, css and JavaScript 
+- 👀 I’m interested in networking
+- 🌱 I’m currently mastering networking, python and cybersecurity as well
   
   
 
